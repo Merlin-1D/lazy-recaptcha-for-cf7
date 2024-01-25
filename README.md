@@ -1,6 +1,5 @@
 # Cf7 Lazy Recaptcha #
-**Contributors:** [(this-should-be-a-list-of-wordpress.org-userid's)](https://profiles.wordpress.org/(this-should-be-a-list-of-wordpress.org-userid's)/)  
-**Donate link:** https://example.com/  
+**Contributors:** [mtph9](https://profiles.wordpress.org/mtph9/)  
 **Tags:** Contact Form 7, performance, speed optimization  
 **Requires at least:** 4.5  
 **Tested up to:** 6.4.2  
