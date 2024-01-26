@@ -37,9 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
 		head.appendChild(script);
 	}
 
-	// Ініціалізація за дією "homepage"
-	// executeRecaptcha(actions.homepage);
-
 	if (inputs.length > 0) {
 		for (const input of inputs) {
 			input.addEventListener('change', () => {
